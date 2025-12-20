@@ -1,0 +1,6 @@
+streamlit
+openai
+boto3
+langchain
+langchain-aws
+python-dotenv
