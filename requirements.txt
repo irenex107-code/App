@@ -6,3 +6,6 @@ langchain-aws
 python-dotenv
 langchain_openai
 langchain_core
+openpyxl
+requests
+pandas
